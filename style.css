@@ -10,7 +10,7 @@
 .button:hover {
     background-color: #0056b3;
 }
-.inactiveButton {
+.inactivebutton {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
@@ -19,7 +19,7 @@
     border-radius: 5px;
     cursor: pointer;
 }
-.WIPButton {
+.wipbutton {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
