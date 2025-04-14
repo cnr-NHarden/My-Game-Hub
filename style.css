@@ -10,3 +10,6 @@
 .button:hover {
     background-color: #0056b3;
 }
+body{
+    background-color: linear-gradient(to bottom, rgba(color, 1) 0%, rgba(color, 0) 100%)
+}
