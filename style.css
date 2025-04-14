@@ -13,7 +13,7 @@
 .inactivebutton {
     padding: 10px 20px;
     font-size: 16px;
-    color: white;
+    color: black;
     background-color: #FF0000;
     border: black;
     border-radius: 5px;
@@ -22,8 +22,8 @@
 .wipbutton {
     padding: 10px 20px;
     font-size: 16px;
-    color: white;
-    background-color: #800080;
+    color: black;
+    background-color: #CBC3E3;
     border: black;
     border-radius: 5px;
     cursor: pointer;
