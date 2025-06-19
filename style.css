@@ -19,4 +19,6 @@
     border-radius: 5px;
     cursor: pointer;
 }
-
+.inactivebutton:hover{
+    background-color: #8B0000;   
+}
